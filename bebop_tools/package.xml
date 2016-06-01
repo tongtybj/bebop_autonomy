@@ -13,8 +13,9 @@
 
   <buildtool_depend>catkin</buildtool_depend>
   <build_depend>bebop_msgs</build_depend>
-  <run_depend>bebop_driver</run_depend>
+  <build_depend>roscpp</build_depend>
   <run_depend>bebop_msgs</run_depend>
+  <run_depend>roscpp</run_depend>
   <run_depend>joy</run_depend>
   <run_depend>joy_teleop</run_depend>
   <run_depend>image_view</run_depend>
